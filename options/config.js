@@ -41,16 +41,23 @@ global.APIKeys = {
 }
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
-global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621']
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
+global.thumb = fs.readFileSync('./image/thumbnail.jpg')
+ // JGN DI UBAH!
+global.name = 'RiellGanzz (Owner)',
+ // GNTI NAMA LU!
+global.owner = ['6282146218274']
+ // GNTI NOMOR LU!
+global.premium = ['6282146218274']
+global.pulsa = ['083813417529'] // UBAH NOMOR YG AKTIF!
+global.botname = 'Khurushi BOT'
+ // GNTI NAMA BOT LU!
+global.packname = 'Riell X wahyu Animek'
+ // TRSERAH MO GANTI AP!
+global.author = 'RiellGanzz'
+ // GNTI NMA LU!
 global.prefa = ['','!','.','/','#','$']
-global.sp = '⭔' // JGN DI UBAH²! NTR EROR
+global.sp = '⭔'
+ // JGN DI UBAH²! NTR EROR
 global.mess = {
 success: '*[SUCCESS]* SUKSES PERMINTAAN ANDA TERKIRIM!',
 admin: 'Fitur Khusus Admin Group!',
